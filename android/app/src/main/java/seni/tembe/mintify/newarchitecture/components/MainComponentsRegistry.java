@@ -1,4 +1,4 @@
-package com.template.newarchitecture.components;
+package seni.tembe.mintify.newarchitecture.components;
 
 import com.facebook.jni.HybridData;
 import com.facebook.proguard.annotations.DoNotStrip;
